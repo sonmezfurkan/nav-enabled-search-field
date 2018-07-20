@@ -29,7 +29,7 @@ sap.ui.define([
 			let newIndex = -1;
 			let newTargetId = "";
       
-      if (!oldIndex) return;
+      			if (!oldIndex) return;
 
 			switch (event.keyCode) {
 				case 38:
