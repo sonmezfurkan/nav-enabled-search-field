@@ -1,7 +1,7 @@
 # nav-enabled-search-field
 Up and down arrow keys navigation enabled custom SAPUI5 SearchField control
 
-expanded metadata looks like this
+## expanded metadata looks like this
 ```js
 metadata: {
   properties: {
@@ -13,7 +13,7 @@ metadata: {
 }
 ```
 
-action is determined according to the pressed keyboard button
+## action is determined according to the pressed keyboard button
 ```js
 switch (event.keyCode) {
   case 38:
